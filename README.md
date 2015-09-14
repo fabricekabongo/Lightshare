@@ -17,3 +17,7 @@ some url you can use like the twitter intents.
 ### Usage
     <div data-copy="Check out this really great website" data-url="http://www.google.com" data-via="googlebot">Share link to google</div>
     <script src="[path to lightshare]"></script>
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/fabricekabongo/lightshare/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
